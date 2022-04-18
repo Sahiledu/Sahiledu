@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sahiledu
+- 👋 Hi, I’m @Sahil
 - 👀 I’m interested in programing, computers 
 - 🌱 I’m currently learning python, qiskit , git
 - 💞️ I’m looking to collaborate on anything
